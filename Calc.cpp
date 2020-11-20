@@ -1,5 +1,5 @@
 //PayRoll
-//Created/revised by <Nelson Cook> on 11/02/2020
+
 
 #include <iostream>
 using namespace std;
